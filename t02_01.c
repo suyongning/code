@@ -4,6 +4,6 @@
 int main(void)
 {
     // TODO: ここに書く
-    printf("%d", 15 + 37);
+    printf("15から37を引いた値は%dです。\n",15 - 37);
     return 0;
 }
