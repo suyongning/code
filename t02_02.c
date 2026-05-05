@@ -1,16 +1,11 @@
-// [演習タイトル]
 #include <stdio.h>
 
 int main(void)
 {
-    // TODO: ここに書く
-    int a, b;
+    // ここはコメント
 
-    puts("二つの整数を入力せよ。");
-    printf("整数a : "); scanf("%d", &a);
-    printf("整数b : "); scanf("%d", &b);
-
-    printf("aをbで割ると%dあまり%dです。 \n", a / b, a % b);
+    printf("ous");
 
     return 0;
+    
 }
